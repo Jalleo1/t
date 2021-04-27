@@ -37,3 +37,21 @@ Num | Left | Middle | Right | Notes
 9 | | | |
 
 Conclusion: hit the purple wall, used buffs, dang.
+
+## Pepin
+
+4/27/2021 - with my #1 Brunhilde  - 1072q
+
+Num | Left | Middle | Right | Notes
+--- |---- | ------ | ----- | -----
+1 | ^ Tuck 350 | Siegfried 350 | William t.C. 350 |
+2 | Gerard 350 | Magnus 350 | ^ Patrick |
+3 | Arthur 350 | Ivanhoe 350 | ^ Scarlett 300 |
+4 | ^ Enrico Dandolo 350 | Good Sir James 350 | Lancelot 350 |
+5 | ^ Earl Marshall 350 | William the Conqueror 350 | Ivanhoe 350 |
+6 | Galahad 350 | Ivanhoe 350 | ^ Thaddeus 300 |
+7 | William t.C. 350 | Mary 350 | ^ Scheherazade 350 |
+8 | ^ Magnus 350 | Cyrano 350 | Percival 350 |
+9 | Arthur 350 | Mary 350 | ^ Sir Oliver 350 |
+
+Really tough for heroes lower than 15m attributes. 
