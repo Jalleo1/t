@@ -6,13 +6,18 @@
 
 4/26/2021 - with my #1 Galahad - 926q
 
-Left | Middle | Right | Notes
----- | ------ | ----- | -----
-Percival 350 | Roland 350 | ^ Merlin 300 |
-^ Cyrano 300 | Tristan 350 | Siegfried 350 |
-Pernell 400 | Percival 350 | ^ Tristan 350 |
-^ Dante 350 | Cu Chulainn 350 | Scheherazade 350 | dante I think had 666q, wow.
-^ Sir Oliver 300 | Romeo 300 | Pernell 400 |
+Num | Left | Middle | Right | Notes
+--- |---- | ------ | ----- | -----
+1 | Percival 350 | Roland 350 | ^ Merlin 300 |
+2 | ^ Cyrano 300 | Tristan 350 | Siegfried 350 |
+3 | Pernell 400 | Percival 350 | ^ Tristan 350 |
+4 | ^ Dante 350 | Cu Chulainn 350 | Scheherazade 350 | dante I think had 666q, wow.
+5 | ^ Sir Oliver 300 | Romeo 300 | Pernell 400 |
+6 | Arthur 350 | Siegfried 350 | ^ Galahad 350 |
+7 | ^ Magnus 300 | ^ Don Juan 300 | ^ John Little 300 |
+8 | ^ Romeo 300 | Earl FitzAlan 300 | Brunhilde 400 |
+9 | Beowulf 350 | Aurelia 400 | ^ Mary 350 |
+
 
 
 ## Gin
